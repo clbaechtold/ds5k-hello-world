@@ -1,1 +1,3 @@
 This is my sample file for my local git repo. Nothing too exciting in here.
+
+I'm adding some new text to my document for a second commit.
